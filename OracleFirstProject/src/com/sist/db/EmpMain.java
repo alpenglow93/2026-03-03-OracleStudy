@@ -34,8 +34,7 @@ public class EmpMain {
 		}
 		rs.close();
 		ps.close();
-		conn.close();		
-
+		conn.close();	
 	}
 
 }
